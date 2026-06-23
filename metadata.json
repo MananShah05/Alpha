@@ -1,0 +1,6 @@
+{
+  "name": "AlphaDecay.watch",
+  "description": "Track how long before your trading edge gets arbed away. A quantitative crowded trade detector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
